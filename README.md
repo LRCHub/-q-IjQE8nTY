@@ -1,0 +1,57 @@
+# Chris Stapleton – White Horse (Official Music Video)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+This love is getting
+kinda dangerous
+Feels like it's a loaded gun
+My mind. It's turning
+like a cloud of dust
+My heart always wants to run
+Oh, oh, oh
+If you want a cowboy
+on a white horse
+Riding off into the sunset
+If that's the kinda
+love you wanna wait for
+Hold on tight, girl,
+I ain't there yet
+No, I ain't there yet
+No, I ain't there yet
+White horse
+Someday,
+maybe you could have your way
+Right now's just not the time
+Some things a man's
+just got to do
+I wish you could change my mind
+Oh, oh, oh
+If you want a cowboy
+on a white horse
+Riding off into the sunset
+If that's the kinda
+love you wanna wait for
+Hold on tight, girl,
+I ain't there yet
+No, I ain't there yet
+No, I ain't there yet
+White horse
+If you want a cowboy
+on a white horse
+Riding off into the sunset
+If that's the kinda
+love you wanna wait for
+Hold on tight, girl,
+I ain't there
+If you want a cowboy
+on a white horse
+Riding off into the sunset
+If that's the kinda
+love you wanna wait for
+Hold on tight, girl,
+I ain't there yet
+No, I ain't there yet
+No, I ain't there yet
+White horse
+```
