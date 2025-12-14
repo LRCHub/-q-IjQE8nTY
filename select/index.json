@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "White Horse (Official Music Video)",
+  "base_artist": "Chris Stapleton",
+  "createdAt": "2025-12-14T15:05:08.580787Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "White Horse",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_White_Horse_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "White Horse",
+      "artist": "Kevin Coyne",
+      "has_synced": false,
+      "path": "select/02_White_Horse_Kevin_Coyne.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ride a White Horse",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/03_Ride_a_White_Horse_Goldfrapp.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "White Horse",
+      "artist": "Skillet",
+      "has_synced": true,
+      "path": "select/04_White_Horse_Skillet.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "White Horse",
+      "artist": "Laid Back",
+      "has_synced": false,
+      "path": "select/05_White_Horse_Laid_Back.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "White Horse",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/06_White_Horse_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "White Horse",
+      "artist": "Wonderland Avenue",
+      "has_synced": false,
+      "path": "select/07_White_Horse_Wonderland_Avenue.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "White Horse",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/08_White_Horse_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ride a White Horse (Ewan Pearson Disco Odyssey, Part 1)",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/09_Ride_a_White_Horse_(Ewan_Pearson_Disco_Odyssey,_Part_1)_Goldfrapp.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ride a White Horse (FK-EK Vocal Version)",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/10_Ride_a_White_Horse_(FK-EK_Vocal_Version)_Goldfrapp.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ride a White Horse (Ewan Pearson Disco Odyssey Pt. 1)",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/11_Ride_a_White_Horse_(Ewan_Pearson_Disco_Odyssey_Pt._1)_Goldfrapp.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Farewell To The Fairground - Rory Phillips White Horse Mix",
+      "artist": "White Lies",
+      "has_synced": false,
+      "path": "select/12_Farewell_To_The_Fairground_-_Rory_Phillips_White_Horse_Mix_White_Lies.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Farewell to the Fairground (Rory Phillips White Horse Mix)",
+      "artist": "White Lies",
+      "has_synced": false,
+      "path": "select/13_Farewell_to_the_Fairground_(Rory_Phillips_White_Horse_Mix)_White_Lies.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "White Horse (Taylor’s Version)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/14_White_Horse_(Taylor’s_Version)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "White Horse (Instrumental with BGV)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/15_White_Horse_(Instrumental_with_BGV)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "White Horse",
+      "artist": "Chris Stapleton",
+      "has_synced": false,
+      "path": "select/pl_01_White_Horse_Chris_Stapleton.txt"
+    }
+  ]
+}
